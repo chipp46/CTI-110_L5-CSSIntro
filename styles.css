@@ -1,0 +1,69 @@
+body {
+    background-color: #F9F9FB;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    border: 2px solid #76547c;
+}
+
+h3 {
+    color: #5800aa;
+    border: 2px solid #76547c
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+p {
+    color: #76547c
+}
+
+ul {
+    padding: 30px;
+}
+
+.top-paragraph {
+    color: #5800aa;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.square-img {
+    height: auto;
+    width: 500px;
+}
+
+.nav-title{
+    color: #e92edb
+}
+
+#footer-title{
+    color:#e92edb;
+}
+
+#indigo-header{
+    color:#e92edb
+}
+
+a {
+    color: #eda179
+}
+
+a:hover {
+    opacity: 0.6;
+}
+
+a:visited {
+    color: black
+}
+
+/* 
+F9F9FB Light shades
+5800AA Light accent
+76547C Main brand color
+B87DC2 Dark accent
+E92EDB Dark shades */
+
